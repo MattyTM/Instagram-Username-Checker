@@ -1,5 +1,6 @@
 # Instagram-Username-Checker
 Easy instagram username checker, it checks if a name its used or not
+- If you have any question Talk to me via [Discord]
 
 ## Instructions
 1) Download the files or clone it
