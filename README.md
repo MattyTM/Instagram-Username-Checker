@@ -11,5 +11,10 @@ Easy instagram username checker, it checks if a name its used or not
 
 ###### To do
 [X] Auto checker, dont need to press enter to check names
-[ ] Remove some texts that appears randomly
-[ ] Thread system
+[] Remove some texts that appears randomly
+[] Thread system
+
+# Contact
+- Discord: Matty#8952
+- Discord Server: [Click Here](https://discord.gg/y7uGQ6d)
+- Youtube Channel: [Click Here](https://www.youtube.com/channel/UCJl6yxaNp3r1xkUoQHs4h6w?view_as=subscriber)
