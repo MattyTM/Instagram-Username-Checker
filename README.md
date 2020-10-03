@@ -17,5 +17,5 @@ Easy instagram username checker, it checks if a name its used or not
 
 ###### Contact
 - Discord: Matty#8952
-- Discord Server: [Click Here](https://discord.gg/y7uGQ6d)
+- Discord Server: [Click Here](https://discord.gg/UgJhHu7)
 - Youtube Channel: [Click Here](https://www.youtube.com/channel/UCJl6yxaNp3r1xkUoQHs4h6w?view_as=subscriber)
