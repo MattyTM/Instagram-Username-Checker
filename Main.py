@@ -1,7 +1,7 @@
-#Instagram Username Checker
-#Made by: Matty#8952
-#Github: MattyTM
-#Discord server: https://discord.gg/UgJhHu7
+#Instagram Username Checker by Fall
+#Made by: fall#6087
+#Github: Falzqq
+#Discord name; fall#6087
 #Version 1.1
 import requests
 import string
